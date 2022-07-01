@@ -38,5 +38,5 @@ function topThreeWords(text) {
   return values;
 }
 
-// returns [ 'a', 'of', 'on' ]
+// returns [ 'a', 'of', 'on' ];
 console.log(topThreeWords(`In a village ' of La ' Mancha, the ' name of which I have no desire to call tomind, there lived not long since one of those gentlemen that keep a lancein the lance-rack, an old buckler, a lean hack, and a greyhound forcoursing. An olla of rather more beef than mutton, a salad on mostnights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extraon Sundays, made away with three-quarters of his income.`));
